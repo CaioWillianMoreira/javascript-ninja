@@ -1,3 +1,3 @@
-## CURSO - JAVASCRIPT NINJA
+## CURSO - JAVASCRIPT NINJA :cyclone:
 
 - Curso de JavaScript do início ao avançado
