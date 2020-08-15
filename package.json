@@ -1,0 +1,20 @@
+{
+  "name": "javascript-ninja",
+  "version": "1.0.0",
+  "description": "- Curso de JavaScript do início ao avançado",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioWillianMoreira/javascript-ninja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioWillianMoreira/javascript-ninja/issues"
+  },
+  "homepage": "https://github.com/CaioWillianMoreira/javascript-ninja#readme"
+}
